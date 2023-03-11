@@ -29,9 +29,9 @@ The following REQUIRED features are completed:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/7zTe2ml.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://im4.ezgif.com/tmp/ezgif-4-3eee2aee58.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **GIPHY**
+GIF created with **Ez GIF**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
