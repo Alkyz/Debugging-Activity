@@ -29,7 +29,7 @@ The following REQUIRED features are completed:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJmYWRlODU1NGJkZWQzM2M5NWE1MGIwOTNhNjkwZTA2ZTljYTI1YSZjdD1n/AWfcRIx99kpKBNTaep/giphy.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/a/7zTe2ml' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **GIPHY**
 
@@ -44,7 +44,7 @@ This project was all about testing Kotlin source code.
 
 ## License
 
-Copyright **2023** **Mario Olivs**
+Copyright **2023** **Mario Oliva**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
